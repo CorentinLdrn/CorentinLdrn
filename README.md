@@ -37,6 +37,6 @@ Python · PostgreSQL · Next.js / TypeScript · LLM agents
 
 ### Background
 MEng Electrical & Computer Engineering, Nantes Université ·
-MSc Electrical Engineering, Tomsk State University
+MSc Electrical Engineering & Computer Science, Tomsk State University
 
 [LinkedIn](https://www.linkedin.com/in/corentin-laudrin/)
