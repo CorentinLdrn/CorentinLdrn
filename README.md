@@ -1,6 +1,6 @@
 # Corentin Laudrin
 
-**Partner at [Mikassa Advisor](https://mikassa-advisor.com.br)** · São Paulo
+**Partner at [Mikassa Advisor](https://mikassa-advisor.com.br)** · São Paulo<br>
 Real estate investment in Brazilian residential development since 2014.
 
 ### What I build
