@@ -19,7 +19,7 @@ We turn all of it into one comparable, audited dataset — then read it.
 Python · PostgreSQL · Next.js / TypeScript · LLM agents
 
 ### Background
-MEng Electrical & Computer Engineering, Nantes Université ·
+MEng Electrical & Computer Engineering, Nantes Université<br>
 MSc Electrical Engineering & Computer Science, Tomsk State University
 
 [LinkedIn](https://www.linkedin.com/in/corentin-laudrin/)
