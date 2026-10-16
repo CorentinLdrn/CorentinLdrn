@@ -5,8 +5,8 @@ Real estate investment in Brazilian residential development since 2014.
 
 ### What I build
 
-Across 55 projects, every developer reports its own way: PDFs, spreadsheets,
-bank statements, lender reports, and a different ERP for finance, sales and construction.
+Every developer reports its own way: PDFs, spreadsheets, bank statements,
+lender reports, and a different ERP for finance, sales and construction.
 We turn all of it into one comparable, audited dataset — then read it.
 
     any report, any format  ──▶  Data  ──▶  Dashboard  ──▶  Analyst
