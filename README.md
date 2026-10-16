@@ -13,7 +13,7 @@ We turn all of it into one comparable, audited dataset — then read it.
 
 - **Mikassa Data** — automated extraction and monthly cross-checks; discrepancies flagged at the source, never silently fixed.
 - **Mikassa Dashboard** — multi-scenario simulation of cash flow, IRR and break-even, benchmarked against the rest of the portfolio.
-- **Mikassa Analyst** — an LLM agent grounded in the certified data, across versions, projects and developers.
+- **Mikassa Analyst** — an LLM agent grounded in years of real, certified portfolio data.
 
 ### Stack
 Python · PostgreSQL · Next.js / TypeScript · LLM agents
